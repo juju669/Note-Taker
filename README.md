@@ -11,16 +11,12 @@
   # Note-Taker
 
 
-  <a href="https://github.com/juju669/Note-Taker.git"><img src="https://images.unsplash.com/photo-1517249361621-f11084eb8e28?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YmF0bWFufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"/></a>
+  <a href="https://github.com/juju669/Note-Taker.git"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPk33UswgQ7pCxGcVzIiQ_KGOriR-b2Ga8ALuoypCWHn_H0WmFYZJsvLyj8Pm88TgCj6zjN7-s&usqp=CAc"/></a>
   
   <br/>
   <br/>
   
-  <a href="#about"><strong>Explore the screenshots »</strong></a>
-  <br/>
-  <br/>
   
-  </div>
   
   
   
